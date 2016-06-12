@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidMoveActivity</string>
+    <string name="next_view">Next View</string>
+    <string name="button_text">Button</string>
 </resources>
